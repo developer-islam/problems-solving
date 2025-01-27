@@ -82,7 +82,7 @@ If you would like solutions in additional languages, contributions are welcome!
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo-link.git
+   git clone https://github.com/developer-islam/problems-solving.git
    ```
 2. Navigate to the desired folder for the platform and difficulty level.
 3. Open the solution file to view the code and problem description.
