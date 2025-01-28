@@ -37,7 +37,7 @@ The repository contains solutions from the following platforms:
 - [AtCoder](https://atcoder.jp) *(optional)*
 - [Other Platforms](#other-platforms)
 
-Feel free to suggest additional platforms in the [issues](https://github.com/your-repo-link/issues) section.
+Feel free to suggest additional platforms in the [issues](https://github.com/developer-islam/problems-solving.git/issues) section.
 
 ## 📂 Structure
 
