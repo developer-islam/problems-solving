@@ -41,7 +41,7 @@ Feel free to suggest additional platforms in the [issues](https://github.com/dev
 
 ## 📂 Structure
 
-The repository is organized as follows:
+The repository is organized as follows :
 
 ```
 root/
