@@ -19,7 +19,7 @@ This repository is designed for:
 - Practicing and improving algorithmic problem-solving skills.
 - Sharing efficient and clean solutions to various problems.
 - Documenting progress and learning from different challenges.
-- Have fun exploring challenging problems! 🎉
+- Have fun exploring challenging problems!  🎉
 
 Whether you are a beginner or an advanced programmer, this repository aims to provide a comprehensive set of examples to help you grow your coding expertise.
 
