@@ -71,7 +71,7 @@ Each platform folder is further divided based on problem difficulty or contest t
 This repository contains solutions written in the following languages:
 
 - JavaScript 🖥️
-- Python  🐍
+- Python   🐍
 - Java ☕
 - C++ ⚙️
 - Other languages (based on contributor preference)
